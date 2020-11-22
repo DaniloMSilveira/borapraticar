@@ -16,6 +16,6 @@
 
 ## :rocket: Conhecendo a aplicação
 
-Abaixo conténm as principais telas do aplicativo.
+Abaixo contém as principais telas do aplicativo.
 
 ![Alt Text](imagens.png)
